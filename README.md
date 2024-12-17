@@ -3,6 +3,6 @@
 <br>
 <br>
 <br>
-<img src="mldev.png" alt="portfolio" width="300px">
+<img src="mldev.png" alt="portfolio">
 <br>
-<br>
+
